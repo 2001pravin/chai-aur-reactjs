@@ -31,7 +31,7 @@ function App() {
   }
  }
 
-  return (
+  return ( 
     <>
     <h1>Chai aur React</h1>
     <h2>Counter Value :{counter}</h2>
@@ -47,3 +47,4 @@ function App() {
 }
 
 export default App
+ 
